@@ -27,7 +27,7 @@
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
   <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=Next.js&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0868AC?style=flat-square&logo=jquery&logoColor=white" />
+  <!--<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0868AC?style=flat-square&logo=jquery&logoColor=white" /> -->
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-41B883?style=flat-square&logo=vue.js&logoColor=white" />
 
   <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
